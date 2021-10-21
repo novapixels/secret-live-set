@@ -1,2 +1,2 @@
-# secret-live-set
-Jekyll project for Secret Live Set by Heineken Chile
+# Secret Live Set
+A website project for Secret Live Set by Heineken Chile, made with Jekyll.
